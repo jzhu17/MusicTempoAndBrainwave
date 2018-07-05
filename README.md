@@ -1,6 +1,5 @@
 # MusicTempoAndBrainwave
-Class project for CS177A(MATLAB)
-###### Presentation video: https://drive.google.com/file/d/0B2fshroYB_ifZElsM3lCZUYzemM/view
+Presentation video: https://drive.google.com/file/d/0B2fshroYB_ifZElsM3lCZUYzemM/view
 
 ## Effects of Music Tempo on Beta Brainwave
 ### I. Abstract 
