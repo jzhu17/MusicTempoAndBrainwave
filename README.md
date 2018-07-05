@@ -23,7 +23,7 @@ Through our results, we found that our alternative hypothesis, that there is a c
 ### VIII. References:
 #### Original Study:
 Impulse: The Premier Undergraduate Neuroscience Journal (2013)
-Title: Music genre preference and tempo alter alpha and beta waves in human non-musicians.
+<br /> Title: Music genre preference and tempo alter alpha and beta waves in human non-musicians.
 https://impulse.appstate.edu/sites/impulse.appstate.edu/files/Hurless%20et%20al.%20_0.pdf
 #### 95% Confidence Interval method:
 http://sphweb.bumc.bu.edu/otlt/mphmodules/bs/bs704_confidence_intervals/BS704_Confidence_Intervals6.html
